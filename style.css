@@ -28,5 +28,14 @@ color: #002f6c;
 font-size: 13px;
 color: #e0dfdf;
 }
-
+header{
+background-colar: #2a2c39;colar: bdc3c7;
+font-family: arial, sans-serif;
+text-align: center;
+  height; 100px;
+  margin: none;
+  width: 1005%; 
+  display: flex;
+  align-content: center
+}
 
